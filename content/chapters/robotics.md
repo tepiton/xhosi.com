@@ -1,0 +1,99 @@
+---
+type: reference
+title: "US Robotics Conferences"
+description: "Five US robotics conferences (ICRA, IROS, Robotics Summit & Expo, RoboBusiness, NVIDIA GTC) compared on venues, deadlines, student discounts, and travel grants for recent graduates ✷❋✷"
+created: 2026-10-06T08:39:25-04:00
+modified: 2026-10-06T08:40:08-04:00
+project:
+source:
+author: "Perplexity/Sonnet 5.5"
+tags: []
+url:
+order: 1
+---
+
+## US Robotics Conferences
+
+Compiled 2026-10-06. Focus: events hosted in the USA. "n.a." means not found on a fetched official page. Dollar amounts are as published; confirm on the linked page before relying on them.
+
+<nav class="page-toc">
+
+### In this document
+
+- [Key findings](#key-findings)
+- [Event overview and venue history (US editions)](#event-overview-and-venue-history-us-editions)
+- [Submission tracks and deadlines](#submission-tracks-and-deadlines)
+- [Student programs, volunteering, discounts and travel support](#student-programs-volunteering-discounts-and-travel-support)
+- [Options relevant to graduates within 1–2 years](#options-relevant-to-graduates-within-12-years)
+- [Official links](#official-links)
+- [Caveats](#caveats)
+
+</nav>
+
+### Key findings
+
+- No recent-graduate registration category exists at any of the five conferences. The only recent-graduate discount found is IEEE's 50% dues discount for the first year after graduation, which lowers the cost of IEEE or RAS member-rate registration at ICRA and IROS ([IEEE grade elevation](https://www.ieee.org/membership/grade-elevation.html)).
+- ICRA is not in the USA again until at least 2029: 2027 is Seoul ([ICRA 2027](https://2027.ieee-icra.org/about/)), 2028 is Guadalajara ([IEEE RAS](https://www.ieee-ras.org/event/2028-ieee-international-conference-on-robotics-and-automation-icra-64236/)), and 2029 is listed as Milan by a third-party calendar ([RoboCata](https://robocata.com/events/icra/2029)). The last US ICRA was Atlanta, May 2025.
+- IROS just finished its US edition in Pittsburgh (Sep 27 – Oct 1, 2026). IROS 2027 is Florence ([IROS 2027](https://2027.ieee-iros.org/)) and IROS 2028 is Sydney ([AMI](https://amimagazine.global/Meetings/Technology/Human-efforts-secure-renowned-robotics-conference-for-Sydney)). A US edition after 2026 was not found (n.a.).
+- Upcoming US events: RoboBusiness (Oct 20–21, 2026, Santa Clara), GTC Washington, D.C. (Nov 30 – Dec 3, 2026), GTC San Jose (Mar 15–18, 2027), Robotics Summit & Expo (Jun 2–3, 2027, Boston).
+
+### Event overview and venue history (US editions)
+
+| Conference | Recurring months | Most recent / next US edition | US venue history |
+|---|---|---|---|
+| ICRA ([RAS site](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/past-and-future-venues)) | May (sometimes late May/June) | Last US: Atlanta, Georgia World Congress Center, May 19–23, 2025 ([ICRA 2025](https://2025.ieee-icra.org/announcements/industrys-premier-robotics-event-convenes-19-23-may-in-atlanta/)). Next: Seoul, Coex, May 24–28, 2027 ([ICRA 2027](https://2027.ieee-icra.org/attend/venue-conference-center/)) | 2025 Atlanta; 2022 Philadelphia, Pennsylvania Convention Center, May 23–27 ([ICRA 2022](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.org/contribute/call-for-papers.html)); 2015 Seattle, Washington State Convention Center, May 26–30 ([RAS CFP](https://www.ieee-ras.org/images/conferences/icra2015/ICRA2015-CFP.pdf)); 2012 Saint Paul, RiverCentre, May 14–18 ([RAS brochure](https://www.ieee-ras.org/images/2012_Awards_brochure.pdf)); 2010 Anchorage, May 3–8 and 2008 Pasadena, May 19–23 ([RAS venue list](https://www.ieee-ras.org/images/ras-resources/ICRA_venues_and_chairs_1984-2017.pdf)). Non-US since: 2023 London, 2024 Yokohama, 2026 Vienna (Jun 1–5), 2027 Seoul, 2028 Guadalajara |
+| IROS ([IROS 2026](https://2026.ieee-iros.org/)) | Late September – early October | Last US: Pittsburgh, David L. Lawrence Convention Center, Sep 27 – Oct 1, 2026 ([venue page](https://2026.ieee-iros.org/attend/conference-venue/)). Next: Florence, Sep 26 – Oct 1, 2027 | 2026 Pittsburgh; 2023 Detroit, Huntington Place, Oct 1–5 ([IROS 2023](https://2023.ieee-iros.org/)); 2020 Las Vegas, held virtually ([Wikipedia](https://en.wikipedia.org/wiki/International_Conference_on_Intelligent_Robots_and_Systems)); 2014 Chicago, Palmer House Hilton, Sep 14–18 ([RAS news](https://www.ieee-ras.org/about-ras/latest-news?start=640)); 2011 San Francisco, Sep 25–30 ([IROS 2011 guide](https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2011/IROS/www.iros2011.org/images/stories/IROS2011EventsGuide.pdf)); earlier US: 2009 St. Louis, 2007 San Diego ([Wikipedia](https://en.wikipedia.org/wiki/International_Conference_on_Intelligent_Robots_and_Systems)) |
+| Robotics Summit & Expo ([site](https://www.roboticssummit.com/)) | Late April – early June (Boston only) | Last: Boston Convention and Exhibition Center, May 27–28, 2026 ([pricing](https://www.roboticssummit.com/pricing/)). Next: John B. Hynes Convention Center, Jun 2–3, 2027 ([FAQ](https://www.roboticssummit.com/faq/)) | 2025 BCEC, Apr 30 – May 1 ([MassRobotics](https://www.massrobotics.org/event/robotics-summit-and-expo-2025/)); 2024 BCEC, May 1–2 ([tracks page](https://www.roboticssummit.com/tracks/)); 2023 BCEC, May 10–11 ([sponsor FAQ](https://www.roboticssummit.com/wp-content/uploads/2023/03/RSE_Sponsor_FAQs.pdf)); 2022 BCEC, May 10–11 ([call for speakers](https://www.roboticssummit.com/call-for-speakers/)); 2019 Boston, Jun 5–6 ([Robot Report](https://www.therobotreport.com/robotics-summit-expo-2019-presentations/)); 2018 Westin Boston Waterfront, May 23–24 ([MassRobotics](https://www.massrobotics.org/robotics-summit-showcase-may-23-24-2018/)). 2020–2021: n.a. |
+| RoboBusiness ([site](https://www.robobusiness.com/)) | Mid-to-late October in recent years (late September in 2017–2018, 2015–2016) | Next: Santa Clara Convention Center, Oct 20–21, 2026 ([venue page](https://www.robobusiness.com/venue/)) | Santa Clara Convention Center: 2022, 2023, 2024 (October each year); 2021 Hynes Convention Center, Boston, Oct 4–5; 2016 and 2015 San Jose McEnery; 2014 Boston; 2013, 2017–2019 Santa Clara ([pr.ai listing, third-party](https://pr.ai/threads/robobusiness-conference-robotics-business-review-usa.5188/)). 2025: Santa Clara, Oct 15–16 ([speaker portal](https://www.robobusiness.com/speaker-portal/)) |
+| NVIDIA GTC, San Jose ([GTC](https://www.nvidia.com/gtc/)) | March | Last: Mar 16–19, 2026. Next: Mar 15–18, 2027 (the [FAQ](https://www.nvidia.com/gtc/faq/) also says Mar 14–18), San Jose McEnery Convention Center, 150 W. San Carlos St. | San Jose each year since 2009 except virtual 2020–2023: 2024 Mar 18–21, 2025 Mar 17–21 (keynote at SAP Center), 2026 Mar 16–19 ([Wikipedia](https://en.wikipedia.org/wiki/Nvidia_GTC)) |
+| NVIDIA GTC, Washington, D.C. ([GTC DC](https://www.nvidia.com/gtc/dc/)) | Late October – early December (2 editions so far) | Next: Nov 30 – Dec 3, 2026, Ronald Reagan Building and International Trade Center plus venues across the city ([FAQ](https://www.nvidia.com/gtc/dc/faq/)) | 2025 Washington, D.C., Oct 27–29 ([Wikipedia](https://en.wikipedia.org/wiki/Nvidia_GTC)) |
+
+### Submission tracks and deadlines
+
+| Conference | Tracks | Deadlines |
+|---|---|---|
+| ICRA 2027 (Seoul; last US edition 2025) | Regular technical papers; IROS-to-ICRA transfer; journal transfers (T-RO, RA-M, RA-L, T-RL); accompanying video; workshops and tutorials; competitions; Arts in Robotics ([call for papers](https://2027.ieee-icra.org/contribute/call-for-icra-2027-papers-now-accepting-submissions/), [contribute](https://2027.ieee-icra.org/contribute/)). ICRA 2025 (Atlanta) also had Late Breaking Results, Doctoral Consortium, Undergraduate Outreach Workshop, ICRA Expo and a Career Fair ([LBR](https://2025.ieee-icra.org/contribute/call-for-late-breaking-results/), [DC](https://2025.ieee-icra.org/contribute/call-for-contributions-to-the-icra-2025-doctoral-consortium/), [undergrad](https://2025.ieee-icra.org/contribute/call-for-undergraduate-outreach-workshop/)) | ICRA 2027: papers Sep 16, 2026 (closed, extended); journal-transfer Dec 31, 2026; Arts in Robotics abstract Dec 1, 2026; workshop/tutorial full proposals Nov 2, 2026; acceptance Jan 31, 2027; early registration Mar 31, 2027; standard registration May 14, 2027. ICRA 2025 (US) for reference: papers Sep 16, 2024; LBR Apr 11, 2025; Doctoral Consortium Mar 31, 2025 |
+| IROS 2026 (Pittsburgh, completed) | Regular papers; special sessions; workshops and tutorials; competitions; forums; Late Breaking Results posters; award nominations ([call for papers](https://2026.ieee-iros.org/contribute/call-for-papers/), [late-breaking results](https://2026.ieee-iros.org/contribute/call-for-late-breaking-results/), [workshops](https://2026.ieee-iros.org/contribute/call-for-workshops-tutorials/)) | Special sessions Jan 31, 2026; papers Mar 2, 2026; workshops/tutorials and competitions Mar 16, 2026; acceptance Jun 16; final papers Jul 16; award nominations Jul 31; Late Breaking Results Aug 10, 2026 ([important dates](https://2026.ieee-iros.org/about/important-dates/)). IROS 2027 (Florence) dates: n.a. (not fetched) |
+| Robotics Summit & Expo | Industry call for presentations (not a peer-reviewed paper track): technical session, roundtable, workshop, live robot demo, lab/facility tour; tracks include Technologies/Tools/Platforms, Design/Development/Manufacturability, AI, Automated Warehouse, Healthcare Robotics, Coding ([call for presentations](https://www.roboticssummit.com/call-for-presentations/)). Speakers get a complimentary full pass plus 2 guest passes | No deadline stated on the 2026 page; 2027 call: n.a. |
+| RoboBusiness | Call for presentations tracks: Physical AI, Enabling Technologies, Humanoids, Field Robotics, Business & Deployment; speakers get a complimentary full registration plus up to 2 guest registrations ([call for presentations](https://www.robobusiness.com/call-for-presentations/)) | 2026 call: closed, no date stated. Early-bird registration ended Aug 31, 2026 ([pricing](https://www.robobusiness.com/pricing/)) |
+| NVIDIA GTC (San Jose 2027) | Poster submissions (original technical or research work) and a Content Interest Survey ([call for submissions](https://www.nvidia.com/gtc/call-for-submissions/)). A separate session or speaker call: n.a. | Poster deadline Nov 10, 2026, 5 p.m. PT; poster notification from mid-December 2026 (rolling); content survey closes Oct 9, 2026, 5 p.m. PT |
+| NVIDIA GTC (Washington, D.C. 2026) | No call for submissions, posters or speakers stated ([FAQ](https://www.nvidia.com/gtc/dc/faq/)) | Registration has no deadline; cancellation with $25 fee before Oct 27, 2026; substitutions by Nov 20, 2026 ([pricing](https://www.nvidia.com/gtc/dc/pricing/)) |
+
+### Student programs, volunteering, discounts and travel support
+
+| Conference | Student / recent-grad tracks and discounts | Volunteer opportunities | Travel grants and recent-grad eligibility |
+|---|---|---|---|
+| ICRA | Student registration categories only; no recent-graduate category. ICRA 2027 (USD, early bird / standard): RAS Student Member $420 / $640, IEEE Student Member $450 / $670, Student Non-Member $550 / $750, versus RAS Member $720 / $1,080, Non-Member $1,100 / $1,500 ([registration](https://2027.ieee-icra.org/attend/registration-information/)). ICRA 2025 (Atlanta): student fees $300–$650; workshop/tutorial $50 ([registration](https://2025.ieee-icra.org/attend/registration-information/)). Doctoral Consortium (PhD students) and Undergraduate Outreach Workshop (travel assistance plus free registration) ran in 2025 | ICRA 2025 (US): free registration for 8 hours of volunteering; applicants must be a graduate student, undergraduate student or staff at an academic institution; deadline Apr 22, 2025; notified Apr 28 ([volunteer](https://2025.ieee-icra.org/attend/volunteer-opportunities/)). Vienna 2026 used local volunteers only ([volunteer](https://2026.ieee-icra.org/attend/volunteer/)). ICRA 2027: n.a. | RAS Travel Grant: only RAS Student Members with accepted papers, or RAS members from developing countries; recent grads not named. ICRA 2025: typical value $1,500, deadline Feb 20, 2025 ([travel support](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA2025/2025.ieee-icra.org/attend/travel-support/index.html)); ICRA 2026: prepaid hotel rooms, deadline Feb 25, 2026 ([travel support](https://2026.ieee-icra.org/attend/travel-support/)). ICRA 2027 travel support: n.a. |
+| IROS | Student Member and Student Non-Member categories; no recent-graduate category. IROS 2026 (USD, early bird): IEEE/RSJ/SICE Member $920, Student Member $460, Student Non-Member $520, Non-Member $1,150; workshops $75–$130 for students ([registration](https://2026.ieee-iros.org/attend/registration/)) | IROS 2026: free registration for at least 8 hours; applicant must be a graduate student, undergraduate student or staff at an academic institution; deadline Aug 24, 2026; applications now closed ([volunteer](https://2026.ieee-iros.org/attend/volunteer-opportunities/)) | RAS Travel Grant: RAS Student Members with accepted papers, or RAS members from developing countries; deadline Jul 3, 2026 ([RAS support](https://2026.ieee-iros.org/attend/ras-member-support/)). IROS-SDC Travel Award: up to $600 for 25 students not selected by RAS/IES; Aug 4–14, 2026 ([SDC](https://2026.ieee-iros.org/attend/iros-sdc-travel-award-program/)). IES-SYPA: up to $1,500 (up to $800 for US-based, outside host city); IEEE member; young professional means up to 15 years after graduation; accepted-paper presenter; no SYPA in the last 2 years; deadline Jul 8, 2026 ([SYPA](https://2026.ieee-iros.org/attend/ies-sypa/)). Undergraduate-only RAS SPIRSE grant: 3 awards up to $2,500; deadline May 1, 2026 ([SPIRSE](https://www.ieee-ras.org/industry-activities/standards/students-participating-in-ieee-robotic-standardization-efforts/2026-icra-spirse-competition/)) |
+| Robotics Summit & Expo | No student pass on the pricing page. Academic Outreach Program: up to 2 complimentary full passes per institution, then students and staff pay $495 (2026), with a valid university email required ([academic outreach](https://www.roboticssummit.com/academic-outreach-program/)). 2026 regular price: $795 early bird, $995 regular, $1,195 late ([pricing](https://www.roboticssummit.com/pricing/)). 2027 prices: n.a. | n.a. | None found. The MassRobotics Technical Career Fair is free and names recent graduates as job seekers; career-fair registrants get a $15 Expo Only pass (2026: May 28, 3:30–5:30 p.m.) ([career fair](https://www.roboticssummit.com/massrobotics-career-fair/)) |
+| RoboBusiness | Student/Academic pass $220 ([pricing](https://www.robobusiness.com/pricing/)); full conference $520 early bird, $720 regular; Expo Only $80 / $120. The [academic outreach page](https://www.robobusiness.com/academic-outreach-program/) states a $395 individual academic rate, 2 complimentary passes per institution ($25 fee each) and a valid university email requirement. The two pages disagree on price. Recent graduates not mentioned | n.a. | None found |
+| NVIDIA GTC | San Jose 2026: free Student Experience (Mar 16, San Jose State University) and a $30 Thursday exhibits pass (from $110) with a .edu email ([student experience](https://www.nvidia.com/gtc/student-experience/)); 2027 equivalent: n.a. Washington, D.C. 2026: 50% off Conference ($449.50) or Exhibits Only ($150) with a university or non-profit email, credentials checked at check-in; not combinable; Full-Day Workshop $395 ([DC pricing](https://www.nvidia.com/gtc/dc/pricing/)). Recent graduates not mentioned | No official volunteer program found on fetched pages | None found |
+
+### Options relevant to graduates within 1–2 years
+
+| Option | What it offers | Applies to | Source |
+|---|---|---|---|
+| IEEE recent-graduate dues discount | 50% off IEEE dues the first year after graduation; automatic at the next October renewal; once per lifetime. Student members are elevated in June (graduation Jan–Jun) or August (Jul–Dec). This makes IEEE/RAS member rates cheaper than non-member rates | ICRA, IROS | [IEEE](https://www.ieee.org/membership/grade-elevation.html) |
+| IES-SYPA | Travel award up to $1,500 for IEEE members up to 15 years past graduation presenting an accepted paper | IROS 2026 only; 2027 terms: n.a. | [IROS SYPA](https://2026.ieee-iros.org/attend/ies-sypa/) |
+| RAS IDEA Travel Support | Up to $3,300 for travel, registration and lodging; for underrepresented individuals who have not published in the last 3 years; deadline for 2026 conferences was Nov 30, 2025; 2027 cycle: n.a. | ICRA, IROS, CASE and others | [RAS IDEA](https://www.ieee-ras.org/idea-travel-support-for-2026-ieee-ras-conferences/) |
+| RAS Young Professionals Committee | Networking, mentoring and events at RAS conferences for recent graduates and early-career professionals; no discount stated | RAS conferences | [RAS YP](https://www.ieee-ras.org/membership/young-professionals/) |
+| MassRobotics Technical Career Fair | Free admission; $15 Expo Only pass; recent graduates named as target job seekers | Robotics Summit & Expo | [career fair](https://www.roboticssummit.com/massrobotics-career-fair/) |
+| University email discounts | Academic rates at Robotics Summit ($495), RoboBusiness ($220 or $395) and GTC D.C. (50%) require a university or academic email; whether alumni addresses qualify is not stated | Robotics Summit, RoboBusiness, GTC | [Summit](https://www.roboticssummit.com/academic-outreach-program/), [RoboBusiness](https://www.robobusiness.com/academic-outreach-program/), [GTC DC](https://www.nvidia.com/gtc/dc/pricing/) |
+
+Volunteer programs at ICRA and IROS list graduate students, undergraduates and academic staff as eligible; recent graduates not enrolled or employed at an academic institution are not named.
+
+### Official links
+
+| Conference | Official site | Registration / pricing | Volunteer / travel |
+|---|---|---|---|
+| ICRA 2027 (Seoul) | [2027.ieee-icra.org](https://2027.ieee-icra.org/) | [Registration](https://2027.ieee-icra.org/attend/registration-information/) | n.a. (2025: [volunteer](https://2025.ieee-icra.org/attend/volunteer-opportunities/), [travel](https://2025.ieee-icra.org/attend/travel-support/)) |
+| IROS 2026 (Pittsburgh) / 2027 (Florence) | [2026](https://2026.ieee-iros.org/), [2027](https://2027.ieee-iros.org/) | [Registration](https://2026.ieee-iros.org/attend/registration/) | [Volunteer](https://2026.ieee-iros.org/attend/volunteer-opportunities/), [RAS support](https://2026.ieee-iros.org/attend/ras-member-support/) |
+| Robotics Summit & Expo | [roboticssummit.com](https://www.roboticssummit.com/) | [Pricing](https://www.roboticssummit.com/pricing/) | [Academic outreach](https://www.roboticssummit.com/academic-outreach-program/) |
+| RoboBusiness | [robobusiness.com](https://www.robobusiness.com/) | [Pricing](https://www.robobusiness.com/pricing/) | [Academic outreach](https://www.robobusiness.com/academic-outreach-program/) |
+| NVIDIA GTC | [San Jose](https://www.nvidia.com/gtc/), [Washington, D.C.](https://www.nvidia.com/gtc/dc/) | [DC pricing](https://www.nvidia.com/gtc/dc/pricing/), [San Jose pricing](https://www.nvidia.com/gtc/pricing/) | [Student Experience](https://www.nvidia.com/gtc/student-experience/) |
+
+### Caveats
+
+- ICRA 2029 (Milan) comes from a third-party calendar; the IEEE RAS venue pages fetched did not list host cities.
+- RoboBusiness historical venues come from a third-party listing ([pr.ai](https://pr.ai/threads/robobusiness-conference-robotics-business-review-usa.5188/)); its 2020 row (planned San Jose) is omitted because the event's format that year was not verified.
+- Travel-grant and volunteer terms for ICRA 2027 and IROS 2027 are not yet published, so 2025–2026 terms are given as the best indicator of future structure.

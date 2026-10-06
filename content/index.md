@@ -1,10 +1,12 @@
 ---
-title: Pamphlet
+title: Random things
 ---
 
 # {{ title }}
 
-<p class="drop">Once upon a time, in a land far away, there lived a writer who had a story to tell.</p>
+This is a place to put things that need to be on the web for one reason or another.
+
+
 
 ## Contents
 

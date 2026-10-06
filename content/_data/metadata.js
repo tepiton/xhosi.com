@@ -1,5 +1,5 @@
 export default {
-  title: "Pamphlet",
+  title: "xhosi.com",
   subtitle: "",
   url: "https://xhosi.com/",
   language: "en",
@@ -10,5 +10,5 @@ export default {
   image: "",
   // Uncomment for the utilitarian theme (plain Helvetica, wide page,
   // no Typekit webfonts): see css/utilitarian.css
-  // stylesheet: "utilitarian",
+  stylesheet: "utilitarian",
 }

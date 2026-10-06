@@ -27,6 +27,22 @@ export default function(eleventyConfig) {
     typographer: true
   }).disable("code");
 
+  // Give headings GitHub-style ids so in-page links (e.g. a TOC) resolve
+  md.core.ruler.push("heading_ids", (state) => {
+    const seen = new Map();
+    state.tokens.forEach((token, i) => {
+      if (token.type !== "heading_open") return;
+      const text = state.tokens[i + 1].children
+        .filter((t) => t.type === "text" || t.type === "code_inline")
+        .map((t) => t.content)
+        .join("");
+      const slug = text.trim().toLowerCase().replace(/[^\p{L}\p{N}\s_-]/gu, "").replace(/\s+/g, "-");
+      const n = seen.get(slug) ?? 0;
+      seen.set(slug, n + 1);
+      token.attrSet("id", n ? `${slug}-${n}` : slug);
+    });
+  });
+
   eleventyConfig.setLibrary("md", md);
 
   eleventyConfig.addCollection("chapters", function(collectionApi) {
