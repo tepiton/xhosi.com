@@ -18,7 +18,6 @@ I saw her first in _As You Like It_ in Boston. I think of it as being a long tim
 
 "Only 2003" because that date seems recent to me. It's only when I do the math and think that the boy was just four -- so I must have seen it with Carol, and according to the article, even though I remember seeing it at the Huntington, it was a coproduction with some other outfit, because the review says it was at the Wilbur instead.
 
-I'm thinking about this because of [
-this article [(Rebecca Hall Redefines Stardom)](https://www.nytimes.com/2024/03/28/style/rebecca-hall-godzilla-kong.html) and I think: This must be the same actress I saw, and yes, except she's in a Godzilla movie and she's 20 years older
+I'm thinking about this because of this article [(Rebecca Hall Redefines Stardom)](https://www.nytimes.com/2024/03/28/style/rebecca-hall-godzilla-kong.html) and I think: This must be the same actress I saw, and yes, except she's in a Godzilla movie and she's 20 years older
 
 It's this: my ability to imagine time, durations. To tell people apart. To tell times apart. Everything is coalescing into the same thing. 
