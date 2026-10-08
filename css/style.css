@@ -233,6 +233,11 @@ a:hover {
   font-size: 1.1rem;
 }
 
+/* The index emits a date for the timeline stylesheets; the literary one omits it */
+.toc time {
+  display: none;
+}
+
 /* Chapter Header */
 .chapter-header {
   margin-bottom: 2.5rem;
