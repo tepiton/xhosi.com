@@ -47,10 +47,8 @@ export default function(eleventyConfig) {
 
   eleventyConfig.addCollection("chapters", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/chapters/*.md").sort((a, b) => {
-      const aOrder = a.data.order ?? 999;
-      const bOrder = b.data.order ?? 999;
-      if (aOrder !== bOrder) return aOrder - bOrder;
-      return a.inputPath.localeCompare(b.inputPath);
+      // Newest first by git last-commit date (see chapters.11tydata.js)
+      return b.date - a.date || a.inputPath.localeCompare(b.inputPath);
     });
   });
 
