@@ -16,6 +16,13 @@ export default function(eleventyConfig) {
     }
   })
 
+  // Descriptions arrive with decorative star marks; drop them for display
+  eleventyConfig.addPreprocessor("description-marks", "*", (data, content) => {
+    if (typeof data.description === "string") {
+      data.description = data.description.replace(/\s*[\u2737\u274B]+/g, "").trim()
+    }
+  })
+
   eleventyConfig.addPassthroughCopy("content/img");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");

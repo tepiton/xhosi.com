@@ -226,7 +226,7 @@ a:hover {
 }
 
 .toc li {
-  margin: .5rem 0;
+  margin: 1.5rem 0;
 }
 
 .toc a {
@@ -236,6 +236,15 @@ a:hover {
 /* The index emits a date for the timeline stylesheets; the literary one omits it */
 .toc time {
   display: none;
+}
+
+/* Description sits directly under its title, smaller and italic */
+.toc .dek {
+  margin: .1rem 0 0;
+  font-size: .85rem;
+  font-style: italic;
+  line-height: 1.4;
+  color: var(--color-muted);
 }
 
 /* Chapter Header */
