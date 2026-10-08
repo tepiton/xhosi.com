@@ -1,7 +1,7 @@
 ---
 type:
-title: Jazz Evolution - Swing to Modal
-description:
+title: "Jazz Evolutionr: Swing to Modal (1937-1967)"
+description: "From dance-band swing, to small-group virtuosity, to blues-and-gospel-rooted hard bop, to scale-based modal improvisation"
 created: 2026-10-07T00:00:00-04:00
 modified: 2026-10-07T23:32:32-04:00
 eras:
@@ -20,7 +20,6 @@ track_count: 20
 url:
 ---
 
-## Jazz Evolution: Swing to Modal (1937-1967)
 
 Five exemplars per era, in recording order. Read top to bottom and the music moves from dance-band swing, to small-group virtuosity, to blues-and-gospel-rooted hard bop, to scale-based modal improvisation.
 
